@@ -1,6 +1,7 @@
-# Excel-Projects
+# Dashboard Sales in Excel
 
-Sales dashboard can be changed dynamically by filter.
+This sales dashboard can be changed dynamically by filter. You can download the dashboard in <a href="https://github.com/nandanovenia/Excel-Projects/blob/main/Dashboard%20Sales.xlsx">nandanovenia: Dashboard Sales in Excel</a>
+
 If you added the dataset row, it can be changed automatically but don't forget to click "refresh".
 The dataset is not real and can be seen in sheet "dataset".
 
